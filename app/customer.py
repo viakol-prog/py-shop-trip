@@ -52,8 +52,6 @@ class Customer:
         total_cost = round(products_cost + fuel_cost, 2)
         fuel_cost = round(fuel_cost, 2)
 
-
-
         return products_cost, fuel_cost, total_cost
 
     def print_receipt(self, shop: "Shop", products_cost: float) -> None:
