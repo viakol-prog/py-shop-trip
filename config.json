@@ -22,11 +22,11 @@
                 "bread": 2,
                 "butter": 2
             },
-            "location": [1, -2],
+            "location": [2, 5],
             "money": 41,
             "car": {
                 "brand": "BMW",
-                "fuel_consumption": 9.1
+                "fuel_consumption": 7.8
             }
         },
         {
@@ -65,11 +65,11 @@
         },
         {
             "name": "Central Shop",
-            "location": [0, 0],
+            "location": [8, 1],
             "products": {
-                "milk": 3,
-                "bread": 2,
-                "butter": 3.5
+                "milk": 4.0,
+                "bread": 1.5,
+                "butter": 4.8
             }
         }
     ]
